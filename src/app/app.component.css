@@ -1,0 +1,32 @@
+.text-container{
+    /* justify-self: center */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+    /* height:25px;
+    align-items: center; */
+}
+
+.text-container h1{
+    color: purple;
+    /* text-align: center; */
+}
+.text-container button{
+    color: blueviolet;
+
+}
+ /* .display{
+    margin-top:15px;
+}  */
+.button{
+    align-items: center;
+}
+.inputarea{
+    text-align: center;
+    padding : 10px 10px;
+
+}
